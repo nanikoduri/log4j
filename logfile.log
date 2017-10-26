@@ -1,0 +1,118 @@
+2017-09-25 15:03:46,596 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:03:46,627 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:03:47,828 INFO  [Log4j] Web application launched 
+2017-09-25 15:08:10,852 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:08:10,865 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:08:15,609 INFO  [Log4j] Web application launched 
+2017-09-25 15:08:17,150 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:08:17,309 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:08:17,438 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:08:17,602 INFO  [Log4j] Click action performed on Submit button 
+2017-09-25 15:10:20,464 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:10:20,477 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:10:24,205 INFO  [Log4j] Web application launched 
+2017-09-25 15:10:25,622 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:10:25,723 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:10:25,830 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:17:47,815 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:17:47,833 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:17:51,525 INFO  [Log4j] Web application launched 
+2017-09-25 15:17:53,104 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:17:53,204 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:17:53,309 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:19:36,333 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:19:36,348 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:19:40,201 INFO  [Log4j] Web application launched 
+2017-09-25 15:19:41,619 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:19:41,731 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:19:41,856 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:20:04,933 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:20:04,933 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:20:09,349 INFO  [Log4j] Web application launched 
+2017-09-25 15:20:10,683 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:20:10,767 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:20:10,870 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:21:11,643 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:21:11,658 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:21:17,295 INFO  [Log4j] Web application launched 
+2017-09-25 15:21:18,590 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:21:18,682 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:21:18,776 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:22:44,749 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:22:44,765 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:22:48,780 INFO  [Log4j] Web application launched 
+2017-09-25 15:22:50,416 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:22:50,518 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:22:50,619 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:23:24,862 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:23:24,878 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:23:29,494 INFO  [Log4j] Web application launched 
+2017-09-25 15:23:30,765 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:23:30,846 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:23:30,945 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:26:58,540 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:26:58,555 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:27:03,693 INFO  [Log4j] Web application launched 
+2017-09-25 15:27:33,189 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:27:33,205 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:27:37,469 INFO  [Log4j] Web application launched 
+2017-09-25 15:28:31,297 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:28:31,313 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:28:35,682 INFO  [Log4j] Web application launched 
+2017-09-25 15:30:02,336 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:30:02,351 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:30:10,194 INFO  [Log4j] Web application launched 
+2017-09-25 15:30:14,163 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:30:14,254 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:30:14,369 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:30:14,461 INFO  [Log4j] Click action performed on Submit button 
+2017-09-25 15:30:19,279 INFO  [Log4j] Click action performed on Log out link 
+2017-09-25 15:30:21,111 INFO  [Log4j] Browser closed 
+2017-09-25 15:32:24,733 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:32:24,749 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:32:36,340 INFO  [Log4j] Web application launched 
+2017-09-25 15:32:38,705 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:32:38,803 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:32:38,911 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:32:38,999 INFO  [Log4j] Click action performed on Submit button 
+2017-09-25 15:32:41,626 INFO  [Log4j] Click action performed on Log out link 
+2017-09-25 15:32:42,598 INFO  [Log4j] Browser closed 
+2017-09-25 15:38:02,596 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:38:02,612 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:38:08,626 INFO  [Log4j] Web application launched 
+2017-09-25 15:38:11,157 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:38:11,248 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:38:11,357 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:38:11,455 INFO  [Log4j] Click action performed on Submit button 
+2017-09-25 15:38:16,156 INFO  [Log4j] Click action performed on Log out link 
+2017-09-25 15:38:17,327 INFO  [Log4j] Browser closed 
+2017-09-25 15:44:53,330 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:44:53,346 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:44:57,597 INFO  [Log4j] Web application launched 
+2017-09-25 15:44:59,252 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:44:59,345 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:44:59,453 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:45:33,597 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:45:33,613 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:45:37,646 INFO  [Log4j] Web application launched 
+2017-09-25 15:45:39,170 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:45:39,260 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:45:39,372 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:45:39,467 INFO  [Log4j] Click action performed on Submit button 
+2017-09-25 15:45:41,980 INFO  [Log4j] Click action performed on Log out link 
+2017-09-25 15:45:43,510 INFO  [Log4j] Browser closed 
+2017-09-25 15:46:51,937 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:46:51,953 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:46:57,680 INFO  [Log4j] Web application launched 
+2017-09-25 15:46:59,298 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:46:59,378 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:46:59,479 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:47:16,488 INFO  [Log4j] New driver instantiated 
+2017-09-25 15:47:16,504 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2017-09-25 15:47:21,649 INFO  [Log4j] Web application launched 
+2017-09-25 15:47:23,773 INFO  [Log4j] Click action performed on My Account link 
+2017-09-25 15:47:23,860 INFO  [Log4j] Username entered in the Username text box 
+2017-09-25 15:47:23,971 INFO  [Log4j] Password entered in the Password text box 
+2017-09-25 15:47:24,063 INFO  [Log4j] Click action performed on Submit button 
+2017-09-25 15:47:26,702 INFO  [Log4j] Click action performed on Log out link 
+2017-09-25 15:47:27,657 INFO  [Log4j] Browser closed 
